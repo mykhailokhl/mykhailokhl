@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mykhailo
 - 👀 I’m learning in front-end development. (HTML5, CSS3, JavaScript)
+- ⭐ Tayers project dream
 - 🌱 I’m currently learning Kotlin, FL STUDIO for creating music.
 - ⚡ Fun fact: I using Croissant and Turtle in my status
 
